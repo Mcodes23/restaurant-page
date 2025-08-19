@@ -19,9 +19,9 @@ A simple, modular restaurant website built with JavaScript, HTML, CSS, and Webpa
 4. Webpack
 
 # Installation & Setup
-1. Clone the repo:
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+1. Clone the repo:  
+- git clone https://github.com/your-username/your-repo.git
+- cd your-repo
 2. Install dependencies:
 npm install
 3. Run in development mode (with live reload):
