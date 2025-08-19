@@ -20,17 +20,18 @@ A simple, modular restaurant website built with JavaScript, HTML, CSS, and Webpa
 
 # Installation & Setup
 1. Clone the repo:  
-- git clone https://github.com/your-username/your-repo.git
-- cd your-repo
+`git clone https://github.com/your-username/your-repo.git`
+`cd your-repo`
 2. Install dependencies:
-npm install
+`npm install`
 3. Run in development mode (with live reload):
-npm run dev
+`npm run dev`
 4. Build for production:
-npm run build
+`npm run build`
 # Deployment
 The project is deployed via GitHub Pages using the gh-pages branch.
 # Deploy steps:
+```bash
 npm run build
 git add dist -f
 git commit -m "Deployment commit"
